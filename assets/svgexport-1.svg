@@ -1,5 +1,3 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="material-icons close-icon modal-close t_and_c_close" style="height:15px; width:15px; margin-right:10px; margin-top:3px;" width="500.04"  height="500" ><defs><symbol id="svg_ico_close">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500.04 500"><g id="a"></g><g id="b"><g id="c"><path id="d" d="M309.22,249.99L487.78,71.29c15.83-16.83,15.03-43.3-1.8-59.13-16.14-15.19-41.34-15.15-57.43,.09L249.99,190.82,71.43,12.26C55.09-4.09,28.6-4.09,12.26,12.26c-16.34,16.34-16.34,42.83,0,59.18L190.82,249.99,12.31,428.53c-16.34,16.34-16.34,42.83,0,59.18,16.34,16.34,42.83,16.34,59.18,0l178.56-178.56,178.51,178.59c16.35,16.36,42.86,16.36,59.22,.01,16.36-16.35,16.36-42.86,.01-59.22h0l-178.56-178.53Z"></path></g></g></svg>
-  </symbol></defs>
-				<use xlink:href="#svg_ico_close"></use>
-			</svg>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="material-icons close-icon modal-close t_and_c_close" style="height:15px; width:15px; margin-right:10px; margin-top:3px;" width="500.04"  height="500" >
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500.04 500"><g id="a"></g><g id="b"><g id="c"><path id="d" d="M309.22,249.99L487.78,71.29c15.83-16.83,15.03-43.3-1.8-59.13-16.14-15.19-41.34-15.15-57.43,.09L249.99,190.82,71.43,12.26C55.09-4.09,28.6-4.09,12.26,12.26c-16.34,16.34-16.34,42.83,0,59.18L190.82,249.99,12.31,428.53c-16.34,16.34-16.34,42.83,0,59.18,16.34,16.34,42.83,16.34,59.18,0l178.56-178.56,178.51,178.59c16.35,16.36,42.86,16.36,59.22,.01,16.36-16.35,16.36-42.86,.01-59.22h0l-178.56-178.53Z"></path></g></g></svg>
+</svg>
