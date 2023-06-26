@@ -32,7 +32,7 @@ function slideImages() {
       currentIndex = (currentIndex + 1) % images.length;
       updateSliderPosition();
       setActiveDot();
-    }, 5000); // Change slide every 3 seconds
+    }, 3000); // Change slide every 3 seconds
   
     // Initialize slider position and active dot
     updateSliderPosition();
@@ -63,3 +63,18 @@ function slideImages() {
   }
 
   setInterval(rotateImages, 3000);
+
+
+  const hideButton = document.querySelector(".close_button");
+const layer2 = document.querySelector(".nav_layer1");
+
+hideButton.addEventListener("click", function() {
+  layer2.style.display = "none";
+});
+
+  const hideButton2 = document.querySelector("#popupbutton");
+const layer3 = document.querySelector(".popup");
+
+hideButton2.addEventListener("click", function() {
+  layer3.style.display = "none";
+});
